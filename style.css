@@ -1,0 +1,45 @@
+
+body{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+#head{
+    text-align: center;
+    margin: 50px 0px 40px 0px;
+}
+.div1{
+    max-width: 400px;
+    text-align: center;
+}
+.divv{
+    display: flex;
+    justify-content: center;
+    margin: 20px 10px 20px 10px !important;
+}
+.div2{
+    width: auto;
+    padding: 20px;
+}
+.form-control{
+    border-top: none !important;
+    border-left: none !important;
+    border-right: none !important;
+    border-bottom: 2px dimgray !important;
+    border-style: groove !important;
+}
+.bi-plus{
+    color: dimgray;
+}
+.javaBtn{
+    float: right !important;
+    margin: 0 1px 0 1px !important;
+    
+}
+.btn-sm{
+    margin-right: 2px;
+}
+.btn{
+    border-radius: 5px !important;
+}
+.btn-outline-secondary{
+    margin-left: 15px !important;
+}
